@@ -591,6 +591,9 @@ margin-right: 63px;
     }
 }
 
+
+
+
 /* 1200px - для стандартных ноутбуков */
 @media (max-width: 1200px) {
     .container {
@@ -1450,7 +1453,7 @@ font-size: 13px;
     }
     
     .help_content-img2 {
-        max-height: 100px;
+        max-height: 110px;
     }
     
     .swiper-title {
@@ -1802,3 +1805,4 @@ font-size: 13px;
         filter: none;
     }
 }
+
